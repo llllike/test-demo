@@ -1,6 +1,5 @@
 ## 如果内容对你有帮助的话，点一个免费的star吧，非常感谢!
 ## 快速使用
-## https://gitee.com/jk_2_yu/test-demo 这里提供了每个模块的使用方式
 
 ## 1、antiSamy
 
