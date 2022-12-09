@@ -1,0 +1,9 @@
+server:
+  port: 8012
+spring:
+  profiles:
+    active: dev
+logback:
+  datasource:
+    save: true
+    password: yzy20021009
