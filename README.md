@@ -1,6 +1,6 @@
 ## 如果内容对你有帮助的话，点一个免费的star吧，非常感谢!
 ## 快速使用
-
+## 项目中模块的jar包下载地址 https://github.com/llllike/auth-demo/releases/tag/1.0-SNAPSHOT 
 ## 1、antiSamy
 
 antiSamy 是一个防止XSS跨域攻击的技术
